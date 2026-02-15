@@ -34,4 +34,4 @@ python student.py
 
 ## Author
 
-Sruthi
+B.Sai Sruthi
